@@ -1,11 +1,8 @@
 {
-  "name": "unplugin-icons",
-  "version": "0.13.4",
-  "description": "Access thousands of icons as components on-demand universally",
-  "homepage": "https://github.com/antfu/unplugin-icons",
-  "bugs": "https://github.com/antfu/unplugin-icons/issues",
+  "name": "unplugin-icons-dc",
+  "version": "0.0.1",
+  "description": "基于官方0.13.4修改版",
   "license": "MIT",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/antfu/unplugin-icons"

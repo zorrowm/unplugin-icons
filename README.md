@@ -1,4 +1,5 @@
-# unplugin-icons
+# unplugin-icons-dc
+基于官方0.13.4版本的自定义修改版（内部使用）
 
 [![NPM version](https://img.shields.io/npm/v/unplugin-icons?color=a1b858&label=)](https://www.npmjs.com/package/unplugin-icons)
 
